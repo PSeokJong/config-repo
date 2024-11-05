@@ -1,2 +1,4 @@
 service:
- name: test service for Production B
+  name: test service for Production B
+  clssid: 201931514
+  myname: 박석종
